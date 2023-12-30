@@ -1,0 +1,12 @@
+{
+    "Bienvenida": "Hola {}, soy tu bot de reenvío. Envíame un archivo y te lo mandaré a tu correo.",
+    "Acceso denegado": "Lo siento {}, este bot sólo está disponible para ciertos usuarios.",
+    "Info": "Existen dos comandos: /start y /destino. El primero inicia el bot y da un mensaje de bienvenida, el segundo permite cambiar el destinatario.",
+    "Default": "El correo asignado para enviar es {}.",
+    "Correo destino": "El correo de destino seleccionado es {}.",
+    "Seleccionado no incluido": "El correo de destino no es válido: {}.",
+    "No seleccionado": "Hay que usar /destino <el correo al que se quiere enviar>.",
+	"Archivo interno": "El archivo procede de su disco duro",
+    "Enviado": "Archivo '{}' enviado por correo a {}.",
+    "Error envío": "Error. Imposible encontrar destinatario"
+}
