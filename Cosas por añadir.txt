@@ -1,0 +1,3 @@
+-Quitar del nombre Z-library
+-Cambiar la función destino, para que solicite el correo de destino y no haya que ponerlo directamente.
+-Subir únicamente archivos epub
